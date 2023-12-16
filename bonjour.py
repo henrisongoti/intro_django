@@ -1,0 +1,2 @@
+def Bonjour():
+    print("Bonjour")
